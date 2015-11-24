@@ -15,7 +15,7 @@ The functionality began as
 
 Once that was done I also went ahead and made it a game, with payments support so I could win a BB-8™ DROID BY SPHERO from a Camp Sponsor [BrainTree](https://www.braintreepayments.com/)
 
-Thanks to [Steve Cooper](https://github.com/developersteve) - [@DeveloperSteve](https://twitter.com/DeveloperSteve) to picking this project as the winner.
+Thanks to [Steve Cooper](https://github.com/developersteve) - [@DeveloperSteve](https://twitter.com/DeveloperSteve) for picking this project as the winner.
 
 This additional game I presented might have helped too.. [I Can Haz BB-8?](https://github.com/MauriceButler/i-can-haz-bb8)
 
