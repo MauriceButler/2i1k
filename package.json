@@ -1,0 +1,21 @@
+{
+  "name": "2i1k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "braintree": "^1.31.0",
+    "keyboard-code": "0.0.2",
+    "keypress": "^0.2.1",
+    "midi": "^0.9.4",
+    "axel": "0.0.3",
+    "keypress": "^0.2.1",
+    "player": "^0.6.1",
+    "rooty": "^2.0.0"
+  }
+}
