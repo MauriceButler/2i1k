@@ -17,6 +17,9 @@ Once that was done I also whent ahead and made it a game, with payments support 
 
 Thanks to [Steve Cooper](https://github.com/developersteve) [@DeveloperSteve](https://twitter.com/DeveloperSteve) to picking this project as the winner.
 
+This additional game I presented might have helped too.. [I Can Haz BB-8?](https://github.com/MauriceButler/i-can-haz-bb8)
+
+
 ## Play
 
 1. Clone
