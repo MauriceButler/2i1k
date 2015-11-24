@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maurice Butler <maurice.butler@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "braintree": "^1.31.0",
     "keyboard-code": "0.0.2",

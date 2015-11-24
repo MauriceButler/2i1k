@@ -1,2 +1,38 @@
-# 2i1k
-2 Idiots 1 Keyboard (strange console rendered game with Midi Device support)
+# 2 Idiots 1 Keyboard
+
+A strange console rendered game with MIDI Device support
+
+## WAT
+
+This is a game hastly hacked together at [CampJS VI](http://vi.campjs.com/)
+
+The concept was we had 1 MIDI keyboard between 2 of us and I was proving that I could reproduce functionality in the console that was being done int the browser.
+
+The functionality begand as
+- Get MIDI keyboard connected
+- Parse MIDI message
+- Make a bear dance
+
+Once that was done I also whent ahead and made it a game, with payments support so I could win a BB-8™ DROID BY SPHERO from a Camp Sponsor [BrainTree](https://www.braintreepayments.com/)
+
+Thanks to [Steve Cooper](https://github.com/developersteve) [@DeveloperSteve](https://twitter.com/DeveloperSteve) to picking this project as the winner.
+
+## Play
+
+1. Clone
+2. npm i
+3. node index.js
+
+## Controls
+
+qwert - P1 Fire love
+
+yuiop - P2 Fire love
+
+(If you have a midi Keyboard some white keys will brobably fire love too...)
+
+space - Play Mozart (cause why not...)
+
+` - P1 Buy love
+
+0 - P2 Buy love
