@@ -39,3 +39,5 @@ space - Play Mozart (cause why not...)
 ` - P1 Buy love
 
 0 - P2 Buy love
+
+![example](demo.gif)
